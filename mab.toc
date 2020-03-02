@@ -1,0 +1,2 @@
+\beamer@sectionintoc {1}{Massa vs Quantit\IeC {\`a} di Moto vs Forza Peso}{3}{0}{1}
+\beamer@sectionintoc {2}{Bilanciamento e Centraggio del nostro I-AMAU}{13}{0}{2}
